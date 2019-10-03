@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Ad_Manager",
+    "name": "openmage-module-fostering\/ad_manager",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Ad Manager for displaying custom ads in any place of magento ",
     "authors": [

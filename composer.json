@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Ad_Manager",
+    "name": "OpenMageModuleFostering\/Ad_Manager",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Ad Manager for displaying custom ads in any place of magento ",
     "authors": [
-    {
-        "name": "Rohit Goel",
-        "email": "rhtgoel7@gmail.com"
-    }
-],
+        {
+            "name": "Rohit Goel",
+            "email": "rhtgoel7@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
